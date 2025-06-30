@@ -92,4 +92,4 @@ Após clicar em "Executar Simulação", o painel direito será preenchido.
 
 ## 7. Autores
 - Carlos Eduardo Lima Botelho Vasconcelos
-- rberio
+- Roberio Gomes de Oliveira
